@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Final-Grade-Calculator/static/css/main.e84de8e0.css",
+    "main.js": "/Final-Grade-Calculator/static/js/main.dd8068e1.js",
+    "static/js/453.f82cd602.chunk.js": "/Final-Grade-Calculator/static/js/453.f82cd602.chunk.js",
+    "index.html": "/Final-Grade-Calculator/index.html",
+    "main.e84de8e0.css.map": "/Final-Grade-Calculator/static/css/main.e84de8e0.css.map",
+    "main.dd8068e1.js.map": "/Final-Grade-Calculator/static/js/main.dd8068e1.js.map",
+    "453.f82cd602.chunk.js.map": "/Final-Grade-Calculator/static/js/453.f82cd602.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e84de8e0.css",
+    "static/js/main.dd8068e1.js"
+  ]
+}

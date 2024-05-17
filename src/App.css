@@ -1,0 +1,7 @@
+.App {
+  text-align: center;
+}
+
+.button-shrink:active {
+  transform: scale(0.95);
+}
